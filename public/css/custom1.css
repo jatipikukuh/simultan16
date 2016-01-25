@@ -1,0 +1,148 @@
+.intro .intro-body .brand-heading {
+    font-size: 50px;
+    color: white;
+    background-color: rgba(0,0,0, 0.5);
+}
+.intro .intro-body .intro-text {
+    font-size: 24px;
+    font-family: calibri;
+    color: white;
+    background-color: rgba(0,0,0, 0.5);
+}
+
+.maghfirahKotak{
+	background-color: rgba(0,0,0, 0.6);
+}
+
+.btn-default {
+    border: 1px solid #337AB7;
+    color: #337AB7;
+    background-color: transparent;
+}
+
+.btn-default:hover, .btn-default:focus {
+    border: 1px solid #3A48E4;
+    outline: 0px none;
+    color: #000;
+    background-color: #337AB7;
+}
+.intro {
+    display: table;
+    width: 100%;
+    height: auto;
+    padding: 100px 0;
+    text-align: center;
+    color: #fff;
+    background: url(../content/intro-bg.jpg) no-repeat bottom center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.navbar-custom.top-nav-collapse {
+    padding: 0px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.68);
+}
+.content-section {
+    padding-top: 100px;
+}
+p {
+    font-family: Dosis;
+}
+td {
+	color: black;
+	font-family: calibri;
+	font-size: 18px;
+}
+a {
+    color: #337AB7;
+    transition: all 0.2s ease-in-out 0s;
+}
+h3 a:focus {
+    color: purple;
+    transition: all 0.1s ease-in-out 0s;
+}
+
+a:hover {
+    color: #004A8A;
+}
+.navbar-custom a:hover {
+    color: #004A8A;
+}
+.modal-content {
+      border-radius: 0px;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0px;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 160px;
+    padding: 5px 0px;
+    margin: 2px 0px 0px;
+    font-size: 14px;
+    text-align: left;
+    list-style: outside none none;
+    background-color: #EEE;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0px;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.176);
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  color: red;
+  text-decoration: none;
+  background-color: blue;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0px 0px 35px;
+    text-transform: uppercase;
+    font-family: Dosis, Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.intro .intro-body .intro-text {
+    font-size: 24px;
+    font-family: Dosis;
+    color: #FFF;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+body {
+    font-family: Dosis,Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #FFF;
+}
+
+.navbar-custom {
+    text-transform: uppercase;
+    font-family: Dosis, Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.btn {
+    text-transform: uppercase;
+    font-family: Dosis,Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+}
+td {
+    color: #000;
+    font-family: Dosis;
+    font-size: 18px;
+}
+th {
+    color: #000;
+    font-family: Dosis;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+
+
+
+
+

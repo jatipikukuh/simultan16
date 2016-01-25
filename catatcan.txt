@@ -1,0 +1,3 @@
+app\User.php line 31
+authController line 47 kr 68
+AuthenticatesUsers line 140
